@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend and frontend developer from Brazil</h3>
 
 
-- 📫 How to reach me **marcmatiasdev@gmail.com**
+- 📫 How to reach me [https://marcmatias.github.io/contact](https://marcmatias.github.io/contact) 
 
 - 📄 Know about my experiences [https://marcmatias.github.io/resume](https://marcmatias.github.io/resume)
 
