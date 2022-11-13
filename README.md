@@ -4,7 +4,7 @@
 
 - 📫 How to reach me [https://marcmatias.github.io](https://marcmatias.github.io) 
 
-- 📄 Know about my experiences [https://marcmatias.github.io/experience](https://marcmatias.github.io/experience)
+- 📄 Know about my experiences [https://marcmatias.github.io/author](https://marcmatias.github.io/author)
 
 - ⚡ Fun fact **I have a bachelor's degree in Philosophy**
 
